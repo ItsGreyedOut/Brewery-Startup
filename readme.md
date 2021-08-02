@@ -13,7 +13,7 @@ Business questions to answer:
 -	Which state(s) has the least selection of beers with highest alcohol by volume (ABV) rating?
 Potential Hypotheses:
 -	She assumes the beer with the highest alcohol by volume (ABV) is the most profitable.  
-A state not producing a large amount of high ABV beers would be the ideal location to open her               brewery.
+A state not producing a large amount of high ABV beers would be the ideal location to open her brewery.
 
 Data Sets:  
 -	Craft Beers Dataset  This dataset contains a list of 2,410 US craft beers and 510 US breweries. The beers and breweries are linked together by the "id". This data was collected in January 2017 from CraftCans.com. 
