@@ -9,7 +9,6 @@ Description:  In 2017 an entrepreneur wanted to open a brewery in the United Sta
 Business questions to answer:
 -	Which style has the highest alcohol by volume (ABV)?  
 -	What is the most brewed style of beer? 
--	Which state has the most of that style?
 -	Which state(s) has the most selection of beers with highest alcohol by volume (ABV) rating?
 -	Which state(s) has the least selection of beers with highest alcohol by volume (ABV) rating?
 Potential Hypotheses:
