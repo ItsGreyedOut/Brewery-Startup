@@ -1,7 +1,5 @@
-# Team_Brachyceratops
-Team Project 1
+# Brewery-Startup
 
-Team_Brachyceratops “Brewery Startup Project”
 By Dawn Washington, David Owens, and Grey Hardy
 
 
