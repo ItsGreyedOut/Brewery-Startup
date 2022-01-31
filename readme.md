@@ -2,7 +2,6 @@
 
 By Dawn Washington, David Owens, and Grey Hardy
 
-
 Description:  In 2017 an entrepreneur wanted to open a brewery in the United States, USA.  She needed to determine the top five styles of beer that contains the highest alcohol by volume (ABV) should be produced.  A competitive location was identified by finding the top five states with the least number of competitors producing those beers in that state.  She analyzed 2,410 US craft beers and 510 US breweries.  
 Business questions to answer:
 -	Which style has the highest alcohol by volume (ABV)?  
